@@ -1,2 +1,0 @@
-konfluenzpunkt.github.com
-=========================
